@@ -55,7 +55,7 @@ title: 使途別予算額
         dataset: OpenSpending.identifier,
         rootNodeLabel: 'Total',
         drilldowns: ['Category', 'Subcategory'],
-        cuts: ['year:' + OpenSpending.year],
+        cuts: ['time:' + OpenSpending.year],
         breakdown: 'Subcategory',
         callback: dataLoaded
       });
