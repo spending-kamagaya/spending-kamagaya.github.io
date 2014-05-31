@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
-  '100': { icon: 'icons/unemployment.svg', color: '#338822', bcolor: '#338822' },
+  '100': { icon: 'icons/legislative.svg', color: '#338822', bcolor: '#338822' },
   '101': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '200': { icon: 'icons/publicaffairs.svg', color: '#338822', bcolor: '#338822' },
   '201': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
@@ -31,14 +31,14 @@ OpenSpending.Styles.Cofog = {
   '301': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '302': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '303': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
-  '400': { icon: 'icons/health.svg', color: '#338822', bcolor: '#338822' },
+  '400': { icon: 'icons/waste.svg', color: '#338822', bcolor: '#338822' },
   '401': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '402': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '500': { icon: 'icons/labour.svg', color: '#338822', bcolor: '#338822' },
   '501': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
-  '600': { icon: 'icons/tree.svg', color: '#338822', bcolor: '#338822' },
+  '600': { icon: 'icons/pig.svg', color: '#338822', bcolor: '#338822' },
   '601': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
-  '700': { icon: 'icons/misc-services.svg', color: '#338822', bcolor: '#338822' },
+  '700': { icon: 'icons/housing.svg', color: '#338822', bcolor: '#338822' },
   '701': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '800': { icon: 'icons/coal.svg', color: '#338822', bcolor: '#338822' },
   '801': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
@@ -58,11 +58,11 @@ OpenSpending.Styles.Cofog = {
   '1101': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '1200': { icon: 'icons/economic-aid.svg', color: '#338822', bcolor: '#338822' },
   '1201': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
-  '1300': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
+  '1300': { icon: 'icons/unemployment.svg', color: '#338822', bcolor: '#338822' },
   '1301': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '1302': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
   '1400': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' },
-  '1401': { icon: 'icons/unknown.svg', color: '#338822', bcolor: '#338822' }
+  '1401': { icon: 'icons/money.svg', color: '#338822', bcolor: '#338822' }
 };
 
 
