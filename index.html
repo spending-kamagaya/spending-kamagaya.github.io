@@ -32,7 +32,7 @@ yepnope({
            //localApiCache: 'aggregate.json',
            dataset: OpenSpending.identifier,
            drilldowns: ['Category', 'Subcategory'],
-           cuts: ['year:' + OpenSpending.year],
+           cuts: ['time:' + OpenSpending.year],
            rootNodeLabel: 'Total',
            breakdown: 'Subcategory',
            callback: function(data) {
@@ -89,7 +89,7 @@ yepnope({
      </div>
 
      <div id="db-tax" class="layout-col layout-col-3">
-      <h2>あなたの横浜市税（年間）</h2>
+      <h2>あなたの鎌ケ谷市税（年間）</h2>
       <p>&yen;31.12</p>
      </div>
     </div><!-- /#db-topbar -->
