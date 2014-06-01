@@ -197,7 +197,7 @@
 }
 
 #select-dependents-type > div.active circle {
-  fill: #ffffff;
+  fill: #f0fff0;
   stroke: none;
 }
 
