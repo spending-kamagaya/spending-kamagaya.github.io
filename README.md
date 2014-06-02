@@ -12,7 +12,7 @@ Where Does My Money Go? 千葉県鎌ケ谷市版（2014年6月1日稼働）は�
 
 Code for Kamagaya:
 
-真魚　長明(Mao Nagaaki), deepdemocracy.center (Coordinator)
+真魚　長明(Nagaaki Mao), deepdemocracy.center (Coordinator)
 青柳　涼(Ryo Aoyagi), aoiro-web.com (Developer)
 
 Core Team: (@は Twitter Account)(本家横浜市版を立ち上げた皆様)
